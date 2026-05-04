@@ -52,17 +52,20 @@
 ## d) Demonstração
 
 <p align="center">
-  <img src="./assets/tela-home.png" width="200" />
-  <img src="./assets/tela-acesso.png" width="200" />
-  <img src="./assets/tela-cronograma.png" width="200" />
-  <img src="./assets/tela-notas.png" width="200" />
-  <img src="./assets/tela-reservar-labs.png" width="200" />
-  <img src="./assets/tela-cantina.png" width="200" />
-   <img src="./assets/tela-pagamento.png" width="200" />
+  <img src="./assets/tela_login.png" width="200" />
+  <img src="./assets/tela_criar_conta.png" width="200" />
+  <img src="./assets/tela_inicial.png" width="200" />
+  <img src="./assets/tela_inicial_branca.png" width="200" />
+  <img src="./assets/tela_cronograma.png" width="200" />
+  <img src="./assets/tela_boletim.png" width="200" />
+  <img src="./assets/tela_labs.png" width="200" />
+  <img src="./assets/tela_cantina.png" width="200" />
+   <img src="./assets/tela_pagamento.png" width="200" />
+   <img src="./assets/tela_confirmacao.png" width="200" />
 </p>
 
 <p align="center">
-  <img src="./assets/aplicativo.gif" width="400" />
+  <img src="./assets/TesteApp.gif" width="400" />
 </p>
 
 ## e) Decisões Técnicas
