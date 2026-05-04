@@ -17,7 +17,6 @@
 ---
 
 ## b) Integrantes do Grupo
-* **Guilherme Willians** - RM: [565919] - Ciência da Computação
 * **[Kauã Lazarim]** - RM: [564625] - Ciência da Computação
 * **[Nelson Troccoli]** - RM: [562815] - Ciência da Computação
 
@@ -32,11 +31,11 @@
 **Passo a Passo:**
 1. Clone este repositório:
    \`\`\`bash
-   git clone https://github.com/seu-usuario/fiap-cpad-cp1-smart-campus.git
+   git clone https://github.com/nstgod/fiap-cpad-cp2-smart-campus.git
    \`\`\`
 2. Navegue até a pasta do projeto:
    \`\`\`bash
-   cd fiap-cpad-cp1-smart-campus
+   cd fiap-cpad-cp2-smart-campus
    \`\`\`
 3. Instale as dependências:
    \`\`\`bash
